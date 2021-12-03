@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #666;
+    height: 100vh;
+}
+footer {
+    width: 100%;
+    min-height: 50px;
+    background: coral;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.p-5 .text-center .bg-image {
+    width: 100%;
+}
+
+
